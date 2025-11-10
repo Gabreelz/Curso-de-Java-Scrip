@@ -26,3 +26,11 @@ let contador = 1;
 contador++; // 2
 contador++; // 3
 console.log('Contador =', contador);
+contador--; // 2
+console.log('Contador =', contador);
+
+console.log('\n--------------------------------------------------\n');
+// Nan - Not a Number
+// parseInt() -> Converte uma string para número inteiro
+// parseFloat() -> Converte uma string para número decimal
+
