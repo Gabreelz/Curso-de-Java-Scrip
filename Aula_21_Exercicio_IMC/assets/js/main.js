@@ -11,7 +11,7 @@ form.addEventListener('submit', function (event) {
 
     // Convertendo os valores para número
     const peso = Number(inputPeso.value);
-    const altura = Number(inputAltura.value);
+    const altura = Number(inputAltura.value);w
 
     //Se peso for 0, vazio ou NaN, cai aqui.
     if(!peso){
