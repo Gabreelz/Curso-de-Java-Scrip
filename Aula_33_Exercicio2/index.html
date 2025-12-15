@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário de alunos</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+    <section class="container"> 
+
+        <h1>Título do exercício</h1>
+
+        <form id="formulario">
+            <input type="text" id="nome" placeholder="Nome do aluno" required>
+            <input type="number" id="idade" placeholder="Idade do aluno" required>
+            <input type="text" id="turma" placeholder="Turma do aluno" required>
+            <input type="number" id="nota" placeholder="Nota do aluno" required>
+
+            <button type="submit">Adicionar aluno</button>
+        </form>
+
+        <h2>Lista de alunos</h2>
+        <button id="btn-carregar">Carregar alunos</button>
+        <ul id="student-list"></ul>
+
+    </section>
+
+    <script src="assets/js/main.js"></script>
+    
+</body>
+</html>
