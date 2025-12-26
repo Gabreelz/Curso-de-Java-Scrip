@@ -1,0 +1,55 @@
+🟢 Nível 1 – Funções básicas (1–5)
+
+Aqui é para aquecer os neurônios, não para impressionar ninguém.
+
+Crie uma função que receba um nome e retorne uma mensagem de boas-vindas.
+
+Crie uma função que receba dois números e retorne a soma deles.
+
+Crie uma função que receba um número e retorne se ele é par ou ímpar.
+
+Crie uma função que receba uma idade e retorne se a pessoa é maior ou menor de idade.
+
+Crie uma função que receba três notas e retorne a média.
+
+🟡 Nível 2 – Parâmetros, retorno e lógica (6–10)
+
+Aqui começa a exigir organização mental.
+
+Crie uma função que receba um número e retorne o dobro, o triplo e o quadrado dele.
+
+Crie uma função que receba um salário e retorne o valor com um aumento de 10%.
+
+Crie uma função que receba um valor e um percentual de desconto e retorne o valor final.
+
+Crie uma função que receba dois números e retorne qual é o maior.
+
+Crie uma função que receba um número e retorne se ele é positivo, negativo ou zero.
+
+🟠 Nível 3 – Funções + estruturas de controle (11–15)
+
+Aqui quem não entendeu funções começa a se enrolar bonito.
+
+Crie uma função que receba um número e retorne a tabuada dele.
+
+Crie uma função que receba um número e retorne a soma de todos os números de 1 até ele.
+
+Crie uma função que receba um número e retorne se ele é primo.
+
+Crie uma função que receba uma string e retorne quantos caracteres ela possui.
+
+Crie uma função que receba uma palavra e retorne se ela é um palíndromo.
+
+🔴 Nível 4 – Funções mais sofisticadas (16–20)
+
+Aqui já dá para sentir o cheiro de código mal pensado se você errar.
+
+Crie uma função que receba um array de números e retorne a média deles.
+
+Crie uma função que receba um array e retorne o maior valor.
+
+Crie uma função que receba um array e retorne um novo array apenas com os números pares.
+
+Crie uma função que receba outra função como parâmetro e a execute.
+
+Crie uma função que retorne outra função que, ao ser chamada, exiba uma mensagem personalizada.
