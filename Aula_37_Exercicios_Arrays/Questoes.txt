@@ -1,0 +1,96 @@
+1. Sistema de notas com validação
+
+Você recebe um array com notas de vários alunos, incluindo valores inválidos (negativos, maiores que 10, strings, null).
+
+Objetivo:
+
+Filtrar apenas notas válidas
+
+Calcular média, maior e menor nota
+
+Retornar também quantas notas foram descartadas
+
+
+
+2. Normalização de dados de usuários
+Receba um array de nomes digitados de forma inconsistente:
+letras maiúsculas e minúsculas misturadas
+espaços extras
+nomes duplicados
+Objetivo:
+Normalizar os nomes
+Remover duplicatas
+Retornar o array final ordenado alfabeticamente
+
+
+3. Controle de estoque
+Você recebe um array de objetos representando produtos com nome, quantidade e minimo.
+Objetivo:
+Identificar produtos abaixo do estoque mínimo
+Calcular o total de itens em estoque
+Retornar um novo array apenas com produtos críticos
+
+4. Análise de vendas mensal
+Receba um array com valores de vendas diárias de um mês.
+Objetivo:
+Calcular faturamento total
+Média diária
+Dias acima da média
+Maior sequência de dias de crescimento
+
+5. Agrupamento por categoria
+Receba um array de objetos com descricao, valor e categoria.
+Objetivo:
+Agrupar os valores por categoria
+Calcular o total gasto em cada categoria
+Retornar um array resumo estruturado
+
+6. Ranking com critérios múltiplos
+Receba um array de jogadores com nome, pontos, faltas e tempo.
+Objetivo:
+Criar um ranking considerando:
+mais pontos
+menos faltas
+menor tempo
+Retornar o ranking final ordenado
+
+7. Detecção de padrões numéricos
+Receba um array grande de números inteiros.
+Objetivo:
+Identificar sequências consecutivas
+Retornar apenas sequências com tamanho ≥ 3
+Ignorar números repetidos isolados
+
+8. Limpeza e consolidação de dados financeiros
+Receba dois arrays:
+um com entradas
+outro com saídas
+Objetivo:
+Consolidar tudo em um único array
+Calcular saldo final
+Identificar dias negativos
+Retornar um relatório estruturado
+
+9. Validação de formulário em lote
+
+Receba um array de objetos representando formulários preenchidos.
+
+Objetivo:
+
+Validar campos obrigatórios
+
+Separar formulários válidos e inválidos
+
+Retornar estatísticas de erro por campo
+
+10. Simulação de fila de atendimento
+
+Receba um array de clientes com nome, prioridade e tempoAtendimento.
+
+Objetivo:
+
+Reordenar a fila respeitando prioridade
+
+Calcular tempo total de espera
+
+Gerar um histórico de atendimento
