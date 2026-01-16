@@ -72,25 +72,15 @@ Identificar dias negativos
 Retornar um relatório estruturado
 
 9. Validação de formulário em lote
-
 Receba um array de objetos representando formulários preenchidos.
-
 Objetivo:
-
 Validar campos obrigatórios
-
 Separar formulários válidos e inválidos
-
 Retornar estatísticas de erro por campo
 
 10. Simulação de fila de atendimento
-
 Receba um array de clientes com nome, prioridade e tempoAtendimento.
-
 Objetivo:
-
 Reordenar a fila respeitando prioridade
-
 Calcular tempo total de espera
-
 Gerar um histórico de atendimento
